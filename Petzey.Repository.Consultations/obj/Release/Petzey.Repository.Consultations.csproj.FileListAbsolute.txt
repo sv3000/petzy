@@ -1,0 +1,14 @@
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\Petzey.Repository.Consultations.dll.config
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\Petzey.Repository.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\Petzey.Repository.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\EntityFramework.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\Petzey.Model.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\Petzey.Model.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\EntityFramework.xml
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\obj\Release\Petzey.Repository.Consultations.csproj.AssemblyReference.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\obj\Release\Petzey.Repository.Consultations.csproj.CoreCompileInputs.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\obj\Release\Petzey.Repository.Consultations.csproj.CopyComplete
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\obj\Release\Petzey.Repository.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Repository.Consultations\obj\Release\Petzey.Repository.Consultations.pdb

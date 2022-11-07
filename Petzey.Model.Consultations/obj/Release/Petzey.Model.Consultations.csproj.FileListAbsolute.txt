@@ -1,0 +1,6 @@
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Model.Consultations\bin\Release\Petzey.Model.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Model.Consultations\bin\Release\Petzey.Model.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Model.Consultations\obj\Release\Petzey.Model.Consultations.csproj.AssemblyReference.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Model.Consultations\obj\Release\Petzey.Model.Consultations.csproj.CoreCompileInputs.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Model.Consultations\obj\Release\Petzey.Model.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Model.Consultations\obj\Release\Petzey.Model.Consultations.pdb

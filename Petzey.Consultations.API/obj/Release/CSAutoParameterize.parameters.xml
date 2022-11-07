@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConsultationContext-Web.config Connection String" description="ConsultationContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:petzeyconsultationapidbserver.database.windows.net,1433;Initial Catalog=PetzeyConsultationV3;Persist Security Info=False;User ID=Sindhu.Palani@skillassure.com@petzeyconsultationapidbserver;Password=Password@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Sarath\\Desktop\\Petzey\ Final\\Petzey\.Appointment\\Git\ Push\\Git\ App\ MIcro\\Final-Consultation-21-08-22\\Petzey\.Consultations\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConsultationContext']/@connectionString" />
+  </parameter>
+</parameters>

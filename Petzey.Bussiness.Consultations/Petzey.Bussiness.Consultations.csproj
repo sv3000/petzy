@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{46638A56-5B70-4FBE-A7CB-48FDF53380C1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Petzey.Bussiness.Consultations</RootNamespace>
+    <AssemblyName>Petzey.Bussiness.Consultations</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exceptions\AppointmentDatetimeException.cs" />
+    <Compile Include="Exceptions\NotFoundException.cs" />
+    <Compile Include="Implementations\AppointmentService.cs" />
+    <Compile Include="Exceptions\MissingDetailException.cs" />
+    <Compile Include="Exceptions\InvalidRolesException.cs" />
+    <Compile Include="Exceptions\NoAppointmentFoundException.cs" />
+    <Compile Include="Implementations\PrescriptionService.cs" />
+    <Compile Include="Interfaces\IAppointmentService.cs" />
+    <Compile Include="Interfaces\IPrescriptionService.cs" />
+    <Compile Include="MappingService\Implementations\AppointmentMappingService.cs" />
+    <Compile Include="MappingService\Implementations\InvalidDataException.cs" />
+    <Compile Include="MappingService\Implementations\PrescriptionMappingService.cs" />
+    <Compile Include="MappingService\Interfaces\IAppointmentMappingService.cs" />
+    <Compile Include="MappingService\Interfaces\IPrescriptionMappingService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Petzey.DTO.Consultations\Petzey.DTO.Consultations.csproj">
+      <Project>{7328C29F-64CD-42E9-BCEF-E32C383CF729}</Project>
+      <Name>Petzey.DTO.Consultations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Petzey.Model.Consultations\Petzey.Model.Consultations.csproj">
+      <Project>{e9c71abe-c0c5-4744-865a-cc9c42da2c1a}</Project>
+      <Name>Petzey.Model.Consultations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Petzey.Repository.Consultations\Petzey.Repository.Consultations.csproj">
+      <Project>{418EBC8F-8B24-4BE7-8427-1D088A21F032}</Project>
+      <Name>Petzey.Repository.Consultations</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
